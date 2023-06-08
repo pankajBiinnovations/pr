@@ -27,4 +27,9 @@ Benefits and importance of eating fruits daily for healthy life in Urdu/HindiÛÙ
 >>>>>>> pankajBiinnovations-patch-1
 =======
 pankaj is a good man.
+<<<<<<< HEAD
+>>>>>>> nb
+=======
+
+yes he is a good man
 >>>>>>> nb
