@@ -1,12 +1,8 @@
 khetan fan
 
 tufan fan
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
->>>>>>> nb
-=======
+
+
 india fan
 After adding the conflicted file, you can continue the merge process by creating a new commit to record the merge resolution:ghff
->>>>>>> nb
