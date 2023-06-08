@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-sony vaio laptop
-hp laptop
-=======
-banana
-apple
->>>>>>> nb
+hockey
+football
+
