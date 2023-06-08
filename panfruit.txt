@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 hockey
 football
 
+=======
+banana
+apple
+
+mouse
+>>>>>>> nb
