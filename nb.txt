@@ -2,4 +2,4 @@ khetan fan
 
 tufan fan
 india fan
-After adding the conflicted file, you can continue the merge process by creating a new commit to record the merge resolution:
+After adding the conflicted file, you can continue the merge process by creating a new commit to record the merge resolution:ghff
