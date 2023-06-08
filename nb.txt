@@ -1,4 +1,7 @@
 khetan fan
 
 tufan fan
+<<<<<<< HEAD
 
+=======
+>>>>>>> nb
