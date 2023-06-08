@@ -7,8 +7,20 @@ football
 banana
 apple
 
+<<<<<<< HEAD
 mouse
 >>>>>>> nb
 =======
 charger
 >>>>>>> nb
+=======
+
+chicken fry
+fish
+
+final copy
+
+new branch is created by pankaj
+
+Benefits and importance of eating fruits daily for healthy life in Urdu/Hindiہماری زندگی میں پھلوں کی کیا اہمیت ہیں اور یہ ہمارے لئے کیوں ضروری ہیں اور ہمیں ...
+>>>>>>> pankajBiinnovations-patch-1
