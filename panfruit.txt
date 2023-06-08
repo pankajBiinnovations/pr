@@ -12,6 +12,7 @@ mouse
 >>>>>>> nb
 =======
 charger
+<<<<<<< HEAD
 >>>>>>> nb
 =======
 
@@ -24,3 +25,6 @@ new branch is created by pankaj
 
 Benefits and importance of eating fruits daily for healthy life in Urdu/Hindiہماری زندگی میں پھلوں کی کیا اہمیت ہیں اور یہ ہمارے لئے کیوں ضروری ہیں اور ہمیں ...
 >>>>>>> pankajBiinnovations-patch-1
+=======
+pankaj is a good man.
+>>>>>>> nb
