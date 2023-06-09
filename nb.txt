@@ -3,14 +3,18 @@ khetan fan
 
 tufan fan
 
+<<<<<<< HEAD
  
  Today our leading topic is laravel reset password manually. In this laravel custom reset password example you will learn how to manually do laravel custom forgot password example.
 
 
+=======
+>>>>>>> 2668b7b (Update nb.txt)
 Today our leading topic is laravel reset password manually. In this laravel custom reset password example you will learn how to manually do laravel custom forgot password example.
 
 This post will give you simple example of how to create custom forgot password in laravel with source code so that you can understand easily. So hope this step by step explain laravel custom reset password email.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -21,6 +25,8 @@ This post will give you simple example of how to create custom forgot password i
 >>>>>>> 2668b7b (Update nb.txt)
 =======
 >>>>>>> 78a0206 (Update nb.txt)
+=======
+>>>>>>> 2668b7b (Update nb.txt)
 
 
 india fan
