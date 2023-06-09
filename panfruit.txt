@@ -33,3 +33,5 @@ pankaj is a good man.
 
 yes he is a good man
 >>>>>>> nb
+
+tuesday is friday
