@@ -7,6 +7,7 @@ gjgg
 jfg
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Applying: added staged command
 
 Step 1: Keep going git rebase --continue
@@ -22,3 +23,6 @@ Applying: added staged commandbbhhjghgg
 =======
 >>>>>>> 34ec9062873ec1ae1ecb5f3c7916c656a046aae7
 >>>>>>> 24595c64edc5f02f539185de21f60d3a18915003
+=======
+Applying: added staged commandbbhhjghgg
+>>>>>>> 34ec906 (Update nb.txt)
