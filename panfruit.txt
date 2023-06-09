@@ -39,3 +39,5 @@ tuesday is friday
 =======
 everything is ok
 >>>>>>> nb
+
+i will use vi now
