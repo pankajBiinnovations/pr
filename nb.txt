@@ -5,3 +5,4 @@ fdfdf
 gjgg
 
 jfg
+Applying: added staged command
