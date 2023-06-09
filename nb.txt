@@ -2,7 +2,8 @@ Protect this branch from force pushing or deletion, or require status checks bef
 khetan fan
 
 tufan fan
-
+ 
+ Today our leading topic is laravel reset password manually. In this laravel custom reset password example you will learn how to manually do laravel custom forgot password example.
 
 
 india fan
