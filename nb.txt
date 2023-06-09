@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Protect this branch from force pushing or deletion, or require status checks before merging.
 khetan fan
 
@@ -36,6 +37,8 @@ This post will give you simple example of how to create custom forgot password i
 >>>>>>> 2668b7b (Update nb.txt)
 =======
 >>>>>>> 78a0206 (Update nb.txt)
+=======
+>>>>>>> origin/nb
 
 
 india fan
