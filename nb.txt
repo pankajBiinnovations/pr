@@ -1,11 +1,11 @@
 ccfcfcffdfd
 vbb
-<<<<<<< HEAD
+
 bbgg\
 
 jvjv
 fjfhg
-=======
+
 bbgg
 
 
@@ -13,4 +13,4 @@ bbgg
 
 fjbhgb
 hfbvhbvh
->>>>>>> 1a191ea (Update nb.txt)
+
