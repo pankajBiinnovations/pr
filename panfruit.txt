@@ -41,3 +41,6 @@ everything is ok
 >>>>>>> nb
 
 i will use vi now
+>>>>>>> nb
+>>>>>>> nb
+>>>>>>> nb
