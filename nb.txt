@@ -6,11 +6,15 @@ gjgg
 
 jfg
 <<<<<<< HEAD
+<<<<<<< HEAD
 Applying: added staged command
 
 Step 1: Keep going git rebase --continue
 
 Step 2: fix CONFLICTS then git add .
+=======
+Applying: added staged commandbbhhjghgg
+>>>>>>> 34ec906 (Update nb.txt)
 =======
 Applying: added staged commandbbhhjghgg
 >>>>>>> 34ec906 (Update nb.txt)
