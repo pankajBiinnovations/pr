@@ -13,4 +13,7 @@ bbgg
 
 fjbhgb
 hfbvhbvh
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1a191ea (Update nb.txt)
