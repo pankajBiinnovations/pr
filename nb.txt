@@ -12,9 +12,16 @@ Step 1: Keep going git rebase --continue
 
 Step 2: fix CONFLICTS then git add .
 
+
+Next, you have to clear the cache and restart your Laravel server. For that, you have to use the following commands:
+
+/* Definition of handleClick in component */
+handleClick = (event) => {
+=======
 Applying: added staged commandbbhhjghgg
 
 
 Applying: added staged commandbbhhjghgg
 
 Applying: added staged commandbbhhjghgg
+
